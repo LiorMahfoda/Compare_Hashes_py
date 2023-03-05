@@ -1,4 +1,4 @@
-# Compare_Hashes_py
+# Compare_Hashes in Python
 
 In this script, I'm searching for hash values of files from a given csv file(Blacklist)\
 and compers it to all files(recursively) from a given path\
